@@ -119,7 +119,7 @@ export function loadCategoryImages(category: string): GalleryConfig {
   }
 
   // 実際に使用されているカテゴリのみをフィルターに含める
-  const usedCategories = [...new Set(images.map(img => img.category))]
+  const usedCategories = Array.from(new Set(images.map(img => img.category)))
   const availableFilters = config.filters.filter(filter => 
     usedCategories.includes(filter)
   )
