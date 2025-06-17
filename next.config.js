@@ -18,7 +18,6 @@ const nextConfig = {
   
   // PWA設定（オプション）
   experimental: {
-    optimizeCss: true,
     optimizePackageImports: ['lucide-react'],
   },
 
