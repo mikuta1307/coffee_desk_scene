@@ -1,16 +1,16 @@
-﻿# 譫ｶ遨ｺ繧ｵ繧､繝医・縺溘ａ蜈ｨ繧ｯ繝ｭ繝ｼ繝ｩ繝ｼ繧堤ｦ∵ｭ｢
-User-agent: *
-Disallow: /
-
-# 荳ｻ隕∵､懃ｴ｢繧ｨ繝ｳ繧ｸ繝ｳ繧呈・遉ｺ逧・↓遖∵ｭ｢
-User-agent: Googlebot
-Disallow: /
-
-User-agent: Bingbot
-Disallow: /
-
-User-agent: Slurp
-Disallow: /
-
-User-agent: DuckDuckBot
-Disallow: /
+#﻿# 譫ｶ遨ｺ繧ｵ繧､繝医・縺溘ａ蜈ｨ繧ｯ繝ｭ繝ｼ繝ｩ繝ｼ繧堤ｦ∵ｭ｢
+#User-agent: *
+#Disallow: /
+#
+## 荳ｻ隕∵､懃ｴ｢繧ｨ繝ｳ繧ｸ繝ｳ繧呈・遉ｺ逧・↓遖∵ｭ｢
+#User-agent: Googlebot
+#Disallow: /
+#
+#User-agent: Bingbot
+#Disallow: /
+#
+#User-agent: Slurp
+#Disallow: /
+#
+#User-agent: DuckDuckBot
+#Disallow: /
